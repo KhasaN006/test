@@ -1,0 +1,17 @@
+body {
+    color: blueviolet;
+    background-color: yellow;
+}
+h1 { 
+    line-height: 60px;
+    color:  crimson;
+}
+a {
+    text-decoration: none;
+}
+.container{
+    border: 1px solid red;
+    width: ;
+    height: ;
+    border-radius: 12px;
+}
